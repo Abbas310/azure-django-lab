@@ -9,6 +9,7 @@ def home(request):
             <h1>Hello from Azure!</h1>
             <p>This Django app is running on Azure App Service.</p>
             <p>Deployed automatically via GitHub Actions CI/CD pipeline.</p>
+            <p><strong>Pipeline is working!</strong></p>
         </body>
         </html>
     """)
